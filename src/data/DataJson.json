@@ -1,0 +1,8 @@
+{
+    "navbarComponent": {
+        "list": [
+            {"icon": "fa-solid fa-house", "name": "Home", "path": "/"},
+            {"icon": "fa-solid fa-heart", "name": "Favorite", "path": "/favorite"}
+        ]
+    }
+}
