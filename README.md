@@ -10,7 +10,10 @@
 
 # Features
 
-- Dark Mode (use of localstorage to keep data saved )
-- Font change with a select (use of localstorage to keep data saved)
-- Search bar to find a definition in english
-- A voice system on the definition
+- Search for recipes by country with VueX
+- Search for recipes in favorites with VueX
+- Add recipes to favorites with VueX
+- See more on each recipe with vue-router
+- Return to the top of the page
+- Navigation on home page and favorites with vue-router
+- Added voice synthesis to read instructions and ingredients for each recipe with VueX
